@@ -1,5 +1,8 @@
 ### Hi there, thanks for visiting my GitHub Repos! 👋
 
+I've been coding for around a year currently work at Made Tech. 
+There are some gaps in my commits due to spending the last few months in Spreadsheets and Google Scripts. 
+I hope to collaborate with you on a fascinating project soon!
 ![Codewars](https://github.r2v.ch/codewars?user=EduardoAquinta)
 
 
