@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, thanks for visiting my GitHub Repos! 👋
 
 ![Codewars](https://github.r2v.ch/codewars?user=EduardoAquinta)
 
